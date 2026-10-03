@@ -1,0 +1,10 @@
+
+campaign_id,brand,campaign,platform,year,ad_type,target_audience,objective,impressions,clicks,description
+A001,Airtel,5G Awareness,Spotify,2024,Audio Ad,Youth,5G Awareness,25000000,850000,Airtel promotes awareness of its 5G services among younger Spotify listeners.
+A002,Airtel,Music Connect,Spotify,2024,Audio Ad,Music Lovers,Brand Awareness,12000000,410000,Airtel uses music-focused audio advertising to increase brand awareness.
+A003,Airtel,Digital India,Spotify,2025,Audio Ad,Young Professionals,Product Awareness,18000000,620000,Airtel promotes digital connectivity and its mobile network services.
+A004,Airtel,Family Plans,Spotify,2025,Audio Ad,Families,Plan Awareness,9000000,280000,Airtel advertises mobile plans intended for families.
+A005,Airtel,5G Plus,YouTube,2025,Video Ad,General Audience,5G Awareness,30000000,1200000,Airtel uses video advertising to communicate its 5G network benefits.
+A006,Spotify,Premium Trial,Spotify,2025,Audio Ad,Music Lovers,Subscription Conversion,15000000,750000,Spotify promotes its premium subscription trial to listeners.
+A007,Airtel,Youth Connect,Spotify,2026,Audio Ad,Youth,Brand Awareness,21000000,700000,Airtel targets younger audiences with music-oriented advertising.
+A008,Airtel,Monsoon Offers,Spotify,2026,Audio Ad,Existing Customers,Offer Awareness,11000000,350000,Airtel promotes seasonal offers to existing customers.

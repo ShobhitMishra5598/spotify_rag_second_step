@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-classic
+sentence-transformers
+faiss-cpu
+python-dotenv
+pandas
+langchain-core
+pytest

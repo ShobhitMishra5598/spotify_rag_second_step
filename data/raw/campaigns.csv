@@ -1,0 +1,120 @@
+Campaign_ID,Company,Target_Audience,Campaign_Goal,Duration,Channel_Used,Conversion_Rate,Acquisition_Cost,ROI,Location,Language,Clicks,Impressions,Engagement_Score,Customer_Segment,Date
+C000001,Nike,Women 25-34,Market Expansion,59,Twitter,21.47,4354.64,1.11,Los Angeles,French,8339,405363,5,Foodies,2025-01-01
+C000002,Samsung,Men 25-34,Market Expansion,58,Pinterest,16.18,14898.8,6.49,Los Angeles,Spanish,8171,312113,4,Fashionistas,2025-01-02
+C000003,Nike,Women 18-24,Brand Awareness,29,Pinterest,4.38,2628.27,6.51,Chicago,French,14544,449487,6,Health & Wellness,2025-01-03
+C000004,Adidas,All Ages,Brand Awareness,23,Pinterest,13.68,21161.59,0.17,Chicago,Spanish,18705,397445,10,Fashionistas,2025-01-04
+C000005,Spotify,Women 25-34,Brand Awareness,43,Facebook,17.68,4785.25,2.89,Los Angeles,Spanish,12940,403562,8,Tech Enthusiasts,2025-01-05
+C000006,Adidas,Women 25-34,Brand Awareness,29,Facebook,5.05,9780.39,7.17,Chicago,French,11715,86732,8,Foodies,2025-01-06
+C000007,Spotify,Women 18-24,Brand Awareness,12,Instagram,15.68,22351.18,5.4,New York,Spanish,3289,51306,9,Outdoor Adventurers,2025-01-07
+C000008,Nykaa,Men 25-34,Brand Awareness,15,Twitter,6.68,12401.38,6.37,Miami,English,10396,455124,6,Outdoor Adventurers,2025-01-08
+C000009,Nike,Men 18-24,Product Launch,89,Twitter,10.24,24522.8,4.48,New York,French,14640,466583,1,Foodies,2025-01-09
+C000010,Tata,Women 18-24,Increase Sales,22,Facebook,19.18,2601.86,7.35,Los Angeles,French,6294,99678,2,Tech Enthusiasts,2025-01-10
+C000011,Spotify,Women 18-24,Product Launch,73,Pinterest,15.76,11501.56,1.65,Houston,,8534,128756,9,Tech Enthusiasts,2025-01-11
+C000012,Tata,All Ages,Brand Awareness,63,Instagram,6.16,7113.98,0.52,Los Angeles,English,6205,400450,8,Outdoor Adventurers,2025-01-12
+C000013,Nike,Women 18-24,Product Launch,86,Facebook,15.3,9416.69,3.13,Los Angeles,English,7772,201752,10,Fashionistas,2025-01-13
+C000014,Adidas,Women 25-34,Market Expansion,61,Facebook,15.93,7522.22,1.47,Houston,French,4189,251835,5,Health & Wellness,2025-01-14
+C000015,Nykaa,Men 18-24,Product Launch,30,Facebook,4.73,9173.78,2.06,Houston,English,18762,321688,6,Tech Enthusiasts,2025-01-15
+C000016,Nike,Men 25-34,Increase Sales,84,Facebook,21.04,12500.5,4.14,Miami,Spanish,16180,188055,7,Health & Wellness,2025-01-16
+C000017,Tata,Men 18-24,Product Launch,64,Instagram,14.17,4050.69,7.93,Chicago,Spanish,19025,188882,2,Tech Enthusiasts,2025-01-17
+C000018,Nike,All Ages,Market Expansion,89,Facebook,20.28,6048.01,7.42,Houston,English,13011,110437,3,Fashionistas,2025-01-18
+C000019,Spotify,Women 25-34,Market Expansion,66,Twitter,4.37,13297.18,0.49,New York,French,15057,193711,4,Health & Wellness,2025-01-19
+C000020,Samsung,Men 25-34,Product Launch,67,Pinterest,3.29,5514.47,3.79,Chicago,English,12716,443662,3,Foodies,2025-01-20
+C000021,Spotify,Women 25-34,Increase Sales,30,Facebook,24.04,1984.26,1.7,Chicago,Spanish,18914,144820,10,Outdoor Adventurers,2025-01-21
+C000022,Tata,Men 18-24,Product Launch,27,Twitter,22.59,12504.46,1.81,Los Angeles,French,12486,400735,5,Tech Enthusiasts,2025-01-22
+C000023,Adidas,All Ages,Increase Sales,63,Facebook,18.58,4365.43,5.83,Chicago,English,1657,321258,2,Outdoor Adventurers,2025-01-23
+C000024,Nike,Women 25-34,Increase Sales,25,Instagram,7.05,9826.85,5.17,New York,English,11036,209372,2,Fashionistas,2025-01-24
+C000025,Tata,Women 18-24,Brand Awareness,62,Pinterest,15.07,6496.69,2.27,Houston,English,14161,118750,4,Outdoor Adventurers,2025-01-25
+C000026,Tata,Men 18-24,Brand Awareness,65,Facebook,13.92,10461.87,7.42,Miami,Spanish,14847,301103,1,Outdoor Adventurers,2025-01-26
+C000027,Spotify,All Ages,Product Launch,14,Instagram,2.82,11322.64,5.78,Los Angeles,English,7906,319820,1,Health & Wellness,2025-01-27
+C000028,Nike,Women 18-24,Brand Awareness,60,Instagram,13.72,9085.65,1.32,Miami,French,5251,307835,1,Fashionistas,2025-01-28
+C000029,Samsung,All Ages,Product Launch,17,Twitter,10.21,23203.83,1.23,Miami,Spanish,14411,238898,7,Fashionistas,2025-01-29
+C000030,Adidas,Women 18-24,Increase Sales,36,Facebook,15.99,3826.38,6.05,Chicago,French,9098,40584,1,Foodies,2025-01-30
+C000031,Nykaa,Men 25-34,Market Expansion,87,Twitter,7.45,5471.12,0.45,Chicago,English,2148,449120,8,Foodies,2025-01-31
+C000032,Nykaa,Men 18-24,Brand Awareness,8,Facebook,3.72,889.98,3.74,Miami,English,17486,235545,4,Fashionistas,2025-02-01
+C000033,Nykaa,Women 25-34,Market Expansion,90,Twitter,3.6,8488.77,7.02,Houston,French,17511,344526,7,Outdoor Adventurers,2025-02-02
+C000034,Nykaa,Women 25-34,Increase Sales,7,Instagram,1.54,10290.07,1.53,Miami,French,9386,128406,10,Outdoor Adventurers,2025-02-03
+C000035,Adidas,Women 25-34,Brand Awareness,15,Instagram,6.93,17832.09,4.85,Houston,French,1878,238494,3,Fashionistas,2025-02-04
+C000036,Nike,Women 18-24,Increase Sales,16,Twitter,2.29,9620.33,7.28,Chicago,Spanish,4288,228090,7,Health & Wellness,2025-02-05
+C000037,Tata,Women 18-24,Brand Awareness,61,Facebook,24.01,10537.49,0.11,Houston,French,12037,331392,7,Health & Wellness,2025-02-06
+C000038,Tata,Women 18-24,Brand Awareness,18,Instagram,16.56,12257.16,2.11,Houston,French,2993,169837,2,Health & Wellness,2025-02-07
+C000039,Spotify,Men 25-34,Market Expansion,16,Twitter,11.25,11458.52,7.97,Chicago,English,6679,453326,3,Health & Wellness,2025-02-08
+C000040,Tata,Men 18-24,Increase Sales,76,Instagram,10.48,20685.2,0.64,Miami,French,8209,263006,6,Outdoor Adventurers,2025-02-09
+C000041,Adidas,All Ages,Product Launch,15,Instagram,19.44,707.82,7.72,New York,Spanish,1627,256288,7,Tech Enthusiasts,2025-02-10
+C000042,Adidas,Men 25-34,Brand Awareness,17,Facebook,18.58,21279.74,5.16,Los Angeles,Spanish,1870,234413,10,Foodies,2025-02-11
+C000043,Samsung,Men 25-34,Increase Sales,55,Pinterest,2.21,3167.3,0.43,Chicago,French,6235,57031,3,Health & Wellness,2025-02-12
+C000044,Spotify,Women 18-24,Market Expansion,54,Facebook,10.97,7981.98,0.17,Chicago,English,5566,464706,4,Outdoor Adventurers,2025-02-13
+C000045,Tata,Women 18-24,Market Expansion,54,Facebook,6.53,8463.94,1.4,Miami,Spanish,8261,406041,6,Fashionistas,2025-02-14
+C000046,Nykaa,Men 18-24,Brand Awareness,26,Twitter,9.73,4526.66,1.79,Los Angeles,Spanish,458,405899,1,Health & Wellness,2025-02-15
+C000047,Samsung,Men 18-24,Increase Sales,35,Instagram,16.76,20749.91,4.84,Los Angeles,French,10224,376258,10,Foodies,2025-02-16
+C000048,Nykaa,All Ages,Market Expansion,56,Twitter,2.49,11589.6,3.35,Houston,French,17676,156253,1,Health & Wellness,2025-02-17
+C000049,Spotify,Women 25-34,Increase Sales,52,Pinterest,14.41,2471.56,6.68,Los Angeles,French,4568,467684,8,Outdoor Adventurers,2025-02-18
+C000050,Tata,Women 18-24,Market Expansion,51,Instagram,16.75,18290.74,4.91,Miami,English,8836,415562,10,Fashionistas,2025-02-19
+C000051,Nykaa,Women 25-34,Product Launch,19,Twitter,10.83,6647.46,7.51,Houston,French,14945,65317,5,Health & Wellness,2025-02-20
+C000052,Nike,All Ages,Increase Sales,83,Facebook,14.56,23430.62,6.98,New York,French,6467,225420,10,Tech Enthusiasts,2025-02-21
+C000053,Spotify,Men 25-34,Brand Awareness,29,Instagram,20.68,20197.59,5.33,Miami,Spanish,9307,391221,10,Tech Enthusiasts,2025-02-22
+C000054,Nike,Women 25-34,Increase Sales,70,Facebook,13.32,2434.39,0.43,Houston,Spanish,15512,303583,9,Fashionistas,2025-02-23
+C000055,Samsung,Men 18-24,Brand Awareness,72,Facebook,6.01,16607.81,7.1,Miami,Spanish,14609,280437,1,Foodies,2025-02-24
+C000056,Adidas,Men 18-24,Brand Awareness,88,Facebook,7.46,8596.99,6.38,Los Angeles,French,10094,283937,6,Fashionistas,2025-02-25
+C000057,Spotify,All Ages,Increase Sales,29,Twitter,23.04,1211.84,1.66,Chicago,French,11854,332806,1,Tech Enthusiasts,2025-02-26
+C000058,Samsung,Men 18-24,Market Expansion,44,Twitter,22.76,4230.71,5.48,Houston,English,14431,234831,7,Outdoor Adventurers,2025-02-27
+C000059,Tata,Women 25-34,Market Expansion,28,Twitter,2.75,10161.04,3.64,Los Angeles,Spanish,4148,386904,9,Health & Wellness,2025-02-28
+C000060,Tata,Men 25-34,Increase Sales,51,Facebook,12.04,2482.17,5.79,New York,English,3819,385016,2,Tech Enthusiasts,2025-03-01
+C000061,Nike,Women 25-34,Market Expansion,17,Instagram,13.0,9570.64,6.81,Miami,French,7472,49251,7,Outdoor Adventurers,2025-03-02
+C000062,Tata,All Ages,Market Expansion,50,Twitter,17.74,2242.67,6.74,Houston,French,3085,161432,10,Fashionistas,2025-03-03
+C000063,Tata,Men 18-24,Market Expansion,44,Facebook,20.41,14091.01,0.86,Houston,French,16794,263605,3,Health & Wellness,2025-03-04
+C000064,Adidas,Men 25-34,Product Launch,55,Twitter,12.78,17871.17,4.89,New York,Spanish,5060,71614,3,Outdoor Adventurers,2025-03-05
+C000065,Adidas,Men 25-34,Brand Awareness,10,Pinterest,19.76,4809.95,0.42,New York,Spanish,2093,114192,9,Tech Enthusiasts,2025-03-06
+C000066,Samsung,Women 18-24,Increase Sales,64,Pinterest,1.89,18871.76,3.11,New York,French,13449,98599,8,Foodies,2025-03-07
+C000067,Nike,All Ages,Market Expansion,78,Pinterest,13.31,3365.01,2.26,Chicago,Spanish,6990,261563,4,Outdoor Adventurers,2025-03-08
+C000068,Tata,Men 18-24,Market Expansion,39,Pinterest,7.73,2617.6,5.14,Chicago,French,5199,355561,2,Outdoor Adventurers,2025-03-09
+C000069,Tata,Men 25-34,Market Expansion,26,Instagram,10.07,16750.06,4.48,New York,French,10377,105438,10,Foodies,2025-03-10
+C000070,Nike,Men 18-24,Market Expansion,7,Pinterest,11.42,11828.37,1.83,Chicago,French,15407,484667,7,Health & Wellness,2025-03-11
+C000071,Adidas,Men 18-24,Product Launch,43,Instagram,8.24,11919.49,5.38,Chicago,English,13422,195143,1,Health & Wellness,2025-03-12
+C000072,Spotify,Men 18-24,Product Launch,16,Facebook,5.46,21931.86,2.73,New York,French,12257,491345,3,Tech Enthusiasts,2025-03-13
+C000073,Spotify,All Ages,Brand Awareness,43,Instagram,23.08,357.84,5.97,Chicago,English,13318,345233,10,Tech Enthusiasts,2025-03-14
+C000074,Adidas,Men 18-24,Increase Sales,65,Twitter,12.0,16996.44,3.77,Chicago,French,11959,281227,2,Foodies,2025-03-15
+C000075,Nike,Men 18-24,Brand Awareness,27,Instagram,24.24,8715.6,7.74,Los Angeles,English,2217,220510,10,Tech Enthusiasts,2025-03-16
+C000076,Tata,Women 18-24,Increase Sales,23,Facebook,23.75,8146.69,1.58,Miami,French,2505,486927,10,Foodies,2025-03-17
+C000077,Spotify,Women 18-24,Market Expansion,7,Instagram,15.25,6399.86,1.81,Houston,Spanish,1283,160520,6,Fashionistas,2025-03-18
+C000078,Nike,All Ages,Brand Awareness,46,Twitter,5.63,23293.49,7.15,Miami,French,4140,452447,1,Tech Enthusiasts,2025-03-19
+C000079,Samsung,Men 18-24,Brand Awareness,80,Facebook,21.66,4657.7,6.86,Los Angeles,Spanish,6286,93049,1,Tech Enthusiasts,2025-03-20
+C000080,Spotify,Women 25-34,Brand Awareness,79,Twitter,22.54,12377.41,1.21,New York,Spanish,15592,40699,10,Tech Enthusiasts,2025-03-21
+C000081,Nykaa,Women 25-34,Brand Awareness,48,Twitter,23.03,24362.04,5.0,Los Angeles,Spanish,12995,28106,10,Foodies,2025-03-22
+C000082,Nike,Men 25-34,Product Launch,65,Instagram,3.86,15198.88,7.36,Houston,Spanish,2886,328545,8,Outdoor Adventurers,2025-03-23
+C000083,Spotify,Men 25-34,Increase Sales,76,Twitter,7.67,2399.69,6.61,Houston,Spanish,6816,217909,2,Health & Wellness,2025-03-24
+C000084,Tata,Men 18-24,Market Expansion,32,Pinterest,20.83,6577.58,7.75,New York,English,15686,410704,7,Fashionistas,2025-03-25
+C000085,Nike,Men 18-24,Market Expansion,29,Instagram,4.37,633.68,5.04,Miami,Spanish,1331,118065,6,Outdoor Adventurers,2025-03-26
+C000086,Adidas,Men 25-34,Brand Awareness,61,Facebook,16.9,22900.31,1.01,Chicago,Spanish,8264,103585,9,Outdoor Adventurers,2025-03-27
+C000087,Nykaa,Women 25-34,Product Launch,81,Twitter,4.91,20555.34,1.34,New York,Spanish,1497,19837,9,Outdoor Adventurers,2025-03-28
+C000088,Nykaa,Men 25-34,Brand Awareness,60,Pinterest,20.87,7010.99,3.25,Los Angeles,French,3490,116725,5,Tech Enthusiasts,2025-03-29
+C000089,Nike,All Ages,Product Launch,17,Facebook,5.32,2578.44,6.0,Houston,English,15660,365298,5,Fashionistas,2025-03-30
+C000090,Adidas,Men 25-34,Increase Sales,38,Facebook,24.82,2567.31,2.21,New York,French,5666,163406,5,Fashionistas,2025-03-31
+C000091,Tata,Women 25-34,Market Expansion,37,Instagram,21.26,4473.13,4.91,Miami,French,11029,100178,5,Outdoor Adventurers,2025-04-01
+C000092,Nykaa,Women 25-34,Market Expansion,75,Instagram,3.29,16047.62,6.72,Chicago,English,9671,464591,3,Foodies,2025-04-02
+C000093,Nike,Men 18-24,Increase Sales,53,Pinterest,18.0,8001.59,3.92,Houston,French,8332,378248,3,Tech Enthusiasts,2025-04-03
+C000094,Tata,Women 18-24,Product Launch,66,Facebook,4.35,8734.31,5.31,Los Angeles,English,2933,431226,8,Health & Wellness,2025-04-04
+C000095,Spotify,All Ages,Brand Awareness,20,Pinterest,8.84,17769.85,7.56,New York,English,12935,5514,5,Tech Enthusiasts,2025-04-05
+C000096,Spotify,Women 25-34,Brand Awareness,33,Pinterest,20.32,17902.41,7.39,Los Angeles,English,16792,209119,7,Health & Wellness,2025-04-06
+C000097,Tata,All Ages,Brand Awareness,65,Pinterest,5.45,12191.56,7.61,Chicago,Spanish,10268,11777,5,Foodies,2025-04-07
+C000098,Nike,Women 25-34,Increase Sales,79,Instagram,17.66,2658.88,5.32,Miami,Spanish,12799,119094,6,Outdoor Adventurers,2025-04-08
+C000099,Nykaa,Men 18-24,Increase Sales,36,Pinterest,20.27,23704.64,3.18,Chicago,French,7480,458684,4,Outdoor Adventurers,2025-04-09
+C000100,Adidas,Women 25-34,Product Launch,38,Facebook,23.29,4671.87,5.16,New York,Spanish,19885,206359,9,Outdoor Adventurers,2025-04-10
+C000101,Adidas,Men 18-24,Brand Awareness,44,Twitter,16.66,16580.32,3.7,Houston,French,6170,27009,3,Fashionistas,2025-04-11
+C000102,Samsung,Men 25-34,Brand Awareness,41,Facebook,11.4,10770.5,5.38,Houston,French,19685,305596,3,Foodies,2025-04-12
+C000103,Nike,Women 25-34,Product Launch,11,Twitter,2.3,2819.75,5.23,Chicago,English,8988,157202,6,Outdoor Adventurers,2025-04-13
+C000104,Tata,Men 18-24,Product Launch,78,Facebook,2.2,6990.25,6.45,Miami,Spanish,14028,51739,1,Tech Enthusiasts,2025-04-14
+C000105,Tata,Men 18-24,Product Launch,13,Twitter,12.66,5219.02,3.13,Houston,French,17896,270892,10,Fashionistas,2025-04-15
+C000106,Nykaa,Women 25-34,Product Launch,72,Pinterest,18.26,10391.34,4.8,Chicago,English,14490,98766,1,Foodies,2025-04-16
+C000107,Adidas,Women 18-24,Product Launch,11,Twitter,10.25,943.69,5.67,Los Angeles,French,13873,230702,2,Fashionistas,2025-04-17
+C000108,Samsung,Women 25-34,Market Expansion,60,Pinterest,20.34,16801.72,7.99,Chicago,English,7539,328028,3,Fashionistas,2025-04-18
+C000109,Nike,All Ages,Market Expansion,58,Pinterest,11.23,3968.39,2.46,New York,Spanish,19455,264807,10,Outdoor Adventurers,2025-04-19
+C000110,Spotify,Men 25-34,Increase Sales,74,Twitter,18.01,819.8,1.56,New York,Spanish,1414,74681,1,Tech Enthusiasts,2025-04-20
+C000111,Nykaa,Women 18-24,Product Launch,72,Pinterest,21.4,9392.46,7.21,Chicago,English,6678,335757,5,Foodies,2025-04-21
+C000112,Nykaa,Women 18-24,Brand Awareness,31,Instagram,7.66,4209.89,5.22,New York,French,761,162523,8,Fashionistas,2025-04-22
+C000113,Spotify,Men 25-34,Brand Awareness,89,Twitter,1.29,13550.25,1.59,New York,Spanish,11176,170245,6,Tech Enthusiasts,2025-04-23
+C000114,Tata,Men 18-24,Market Expansion,23,Twitter,7.43,10095.88,3.91,Chicago,Spanish,2669,17656,5,Fashionistas,2025-04-24
+C000115,Nike,Women 18-24,Market Expansion,54,Facebook,20.87,18325.14,7.79,Los Angeles,Spanish,5214,248513,1,Outdoor Adventurers,2025-04-25
+C000116,Spotify,Women 25-34,Product Launch,60,Instagram,18.42,7319.54,3.51,New York,English,6206,497814,7,Outdoor Adventurers,2025-04-26
+C000117,Samsung,Women 25-34,Market Expansion,58,Instagram,4.9,4873.34,0.19,Chicago,French,19620,457392,9,Health & Wellness,2025-04-27
+C000118,Samsung,Men 25-34,Market Expansion,79,Twitter,10.78,24050.56,1.72,Miami,French,19750,316236,2,Health & Wellness,2025-04-28
+C000119,Samsung,Women 18-24,Market Expansion,29,Instagram,20.16,22484.37,1.78,Miami,English,11671,271499,7,Outdoor Adventurers,2025-04-29
